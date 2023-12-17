@@ -37,7 +37,6 @@ h2 {
 main {
   width: 900px;
   margin: auto;
-  text-align: center
 }
 
 /* BEGIN (write your solution here) */
@@ -48,7 +47,7 @@ main {
 
 #Edu {
   padding:0;
-  text-align: left;
+  text-align: centr;
   border:none;
 }
 
