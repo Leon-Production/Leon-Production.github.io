@@ -6,7 +6,7 @@ body {
   /* BEGIN (write your solution here) */
 font-size: 18px;
 color: #333;
-text-align: center
+
   /* END */
   font-family: sans-serif;
   line-height: 1.5;
@@ -37,6 +37,7 @@ h2 {
 main {
   width: 900px;
   margin: auto;
+  text-align: center
 }
 
 /* BEGIN (write your solution here) */
