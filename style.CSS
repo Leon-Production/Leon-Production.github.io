@@ -43,5 +43,6 @@ main {
 li {
  margin-bottom:10px;
 }
-
-/* END */
+img {
+ max-width: 700px
+}
