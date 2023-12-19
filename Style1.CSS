@@ -1,0 +1,23 @@
+.parent {
+  border: 1px solid black;
+  width: 300px;
+  padding: 20px;
+  box-shadow: 0 0 3px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.check {
+  background-color: blue;
+  width: 100%;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  outline: none;
+}
+
+.input {
+  margin-bottom: 20px;
+  width: 100%;
+}
