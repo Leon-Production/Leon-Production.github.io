@@ -40,6 +40,14 @@ main {
   border:none;
 }
 
+.foto1 {
+align: left;
+}
+
+.foto2 {
+align: right ;
+}
+
 li {
  margin-bottom:10px;
 }
